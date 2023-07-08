@@ -1,0 +1,1 @@
+- use `use(route fined)` in main.js
